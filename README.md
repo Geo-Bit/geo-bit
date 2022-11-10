@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Geo-Bit/geo-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi, I'm Geo 👋
+[![](https://img.shields.io/badge/LinkedIn-George%20Tipton-blue)](https://www.linkedin.com/in/george-tipton/)
+[![](https://img.shields.io/badge/Gmail-George%20Tipton-red)](mailto:george.w.tipon@gmail.com)
+
+
+## About
+
+-  **Current Role :** Sr. Application Security Engineer
+-  **Learning :** Go, CTF, CI/CD Security
+-  **Languages :** Python, .NET, JavaScript, Go
+-  **Hobbies :** Cycling, Exploring, Gaming
