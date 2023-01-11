@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Geo 👋
 [![](https://img.shields.io/badge/LinkedIn-George%20Tipton-blue)](https://www.linkedin.com/in/george-tipton/)
-[![](https://img.shields.io/badge/Gmail-George%20Tipton-red)](mailto:george.w.tipon@gmail.com)
+[![](https://img.shields.io/badge/Gmail-George%20Tipton-red)](mailto:george.w.tipton@gmail.com)
 
 
 ## About
