@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ## About
 
 -  **Current Role :** Sr. Application Security Engineer
--  **Learning :** Go, CTF, CI/CD Security
+-  **Learning :** Go, Python (Django/Flask/PyTorch), CTF, CI/CD Security
 -  **Languages :** Python, .NET, JavaScript, Go
 -  **Hobbies :** Cycling, Exploring, Gaming
