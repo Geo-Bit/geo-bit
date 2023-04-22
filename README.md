@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -  **Current Role :** Sr. Application Security Engineer
 -  **Learning :** Go, Python (Django/Flask/PyTorch), CTF, CI/CD Security
 -  **Languages :** Python, C#, JavaScript, Go
--  **Hobbies :** Cycling, Exploring, Gaming
+-  **Hobbies :** 3D Printing, Cycling, Exploring, Gaming
