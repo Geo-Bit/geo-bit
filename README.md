@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ## About
 
 -  **Current Role :** Lead Application Security Engineer
--  **Learning :** Go, Python (Django/Flask/PyTorch), Terraform, Cloud Security
+-  **Learning :** AI Dev, JavaScript (Vue/React/Express), CTFs, Terraform, Cloud Security
 -  **Languages :** Python, C#, JavaScript, Go
