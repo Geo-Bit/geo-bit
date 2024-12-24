@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## About
 
 -  **Current Role :** Lead Application Security Engineer
--  **Learning :** AI Dev (Cursor, Claude 3.5 Sonnet, GPT-o1), JavaScript (Vue/React/Express), CTFs, Terraform, Cloud Security
+-  **Learning :** AI Dev (Cursor/Claude 3.5 Sonnet/GPT-o1), JavaScript (Vue/React/Express), CTFs, Terraform, Cloud Security
 -  **Languages :** Python, C#, JavaScript, Go
 -  **Current Project :** 2024 NoCo Hackers CTF Vulnerable Web Application
 -  **Currently Reading :** [Cult of the Dead Cow](https://www.goodreads.com/en/book/show/42283862-cult-of-the-dead-cow) 
