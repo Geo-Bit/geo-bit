@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -  **Current Role :** Lead Application Security Engineer
 -  **Learning :** AI Dev (Cursor/Claude 3.5 Sonnet/GPT-o1), JavaScript (Vue/React/Express), CTFs, K8s, Cloud Security
 -  **Languages :** Python, C#, JavaScript, Go
--  **Current Project :** 2024 NoCo Hackers CTF Vulnerable Web Application
+-  **Current Project :** Blogging, media automation, and new web ventures
