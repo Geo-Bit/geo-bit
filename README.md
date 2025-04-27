@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ## About
 
 -  **Current Role :** Lead Application Security Engineer
--  **Learning :** AI Dev (Cursor/Claude 3.5 Sonnet/GPT-o1), Bug Bounty, CTFs, Kubernetes, Cloud Security
+-  **Learning :** AI Dev, Bug Bounty, CTFs, Kubernetes, Cloud Security
 -  **Languages :** Python, C#, JavaScript, Go
--  **Current Project(s) :** Blogging, media automation, secret AI dev project
+-  **Current Project(s) :** Blogging, media automation, stealthy AI project
