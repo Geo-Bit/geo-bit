@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About
 
--  **Current Role :** Lead Application Security Engineer
+-  **Current Role :** AppSec @Microsoft
 -  **Learning :** AI Dev, Bug Bounty, CTFs, Kubernetes, Cloud Security
 -  **Languages :** Python, C#, JavaScript, Go
 -  **Current Project(s) :** Blogging, media automation, stealthy AI project
